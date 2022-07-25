@@ -1,0 +1,17 @@
+.selected-column {
+    font-weight: 500;
+}
+
+.detail-table {
+    text-align: center;
+    margin: 0 auto;
+}
+
+tr:nth-child(odd) {
+    background-color: #D6EEEE;
+}
+
+#table-header > tr {
+    background-color: #AAAAAA;
+    cursor: pointer;
+}
